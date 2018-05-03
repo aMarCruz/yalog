@@ -1,6 +1,7 @@
 # YaLog
 
 [![Release](https://jitpack.io/v/aMarCruz/yalog.svg)](https://jitpack.io/#aMarCruz/yalog)
+[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [![License](https://img.shields.io/npm/l/express.svg)](https://github.com/aMarCruz/yalog/blob/master/LICENSE)
 
 Simple wrapper for Android Log with automatic level exclusion
@@ -36,7 +37,7 @@ I want a super-simple, drop-in replacement for `android.util.Log` that...
 
 ```java
 // Import this plugin instead the default android Log
-import com.github.amarcruz.Log;
+import com.github.amarcruz.yalog.Log;
 
 ...
 private static final String TAG = "MyTAG";

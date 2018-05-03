@@ -1,4 +1,4 @@
-# android-example
+# YaLog
 
 [![Release](https://jitpack.io/v/aMarCruz/yalog.svg)](https://jitpack.io/#aMarCruz/yalog)
 [![License](https://img.shields.io/npm/l/express.svg)](https://github.com/aMarCruz/yalog/blob/master/LICENSE)
